@@ -4,10 +4,6 @@ for (var x = 0; x < topics.length; x++) {
  console.log(topics[x]);
 }
 
-
-console.log("test")
-console.log("trying to cause a conflict")
-
 /*
 if (topic === 'HTML') {
  console.log("Let's study HTML!");
@@ -21,3 +17,4 @@ if (topic === 'HTML') {
  console.log('Please try again!');
 }
 */
+console.log("changed")
